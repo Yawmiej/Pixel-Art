@@ -2,9 +2,13 @@
 
 ## Table of Contents
 
+* [About](#About)
 * [Instructions](#instructions)
 * [Link](#Link)
 * [Contributing](#contributing)
+
+## About
+Pixel Art Maker is an online art maker that helps you make simple arts by clicking on boxes/grids. it was built in JavaScript, using jQuery
 
 ## Instructions
 
