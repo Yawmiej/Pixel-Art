@@ -3,6 +3,7 @@
 ## Table of Contents
 
 * [Instructions](#instructions)
+* [Link](#Link)
 * [Contributing](#contributing)
 
 ## Instructions
@@ -11,6 +12,10 @@
 2. Click 'submit'
 3. Make art by clicking on box(es)
 4. Click 'reset' to refresh.
+
+## Link
+
+This project is available at Yawmiej.github.io
 
 ## Contributing
 
