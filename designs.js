@@ -1,5 +1,3 @@
-// Select size input
-// When size is submitted by the user, call makeGrid()
 var row;
 var column;
 //action when submit is clicked
