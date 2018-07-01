@@ -1,0 +1,106 @@
+body {
+    text-align: center;
+}
+header{
+	border:2px solid #4CAF50;
+	border-radius: 5px;
+	box-shadow: 5px 5px 20px #888;
+	background-color: white;
+	margin: 5px 5px;
+}
+
+h1 {
+    font-family: Monoton;
+    font-size: 70px;
+    margin: 0.2em;
+    color: darkred;
+}
+
+h2 {
+    margin: 1em 0 0.25em;
+}
+
+h2:first-of-type {
+    margin-top: 0.5em;
+}
+
+table,
+tr,
+td {
+    border: 1px solid black;
+}
+
+table {
+    border-collapse: collapse;
+    margin: 0 auto;
+}
+
+tr {
+    height: 20px;
+}
+
+td {
+    width: 20px;
+}
+
+input[type=number] {
+    width: 6em;
+}
+.button{
+	border-radius: 5px;
+	background-color: #4CAF50;
+	color: white;
+	border: 0px;
+	padding:10px 20px;
+	cursor: pointer;
+	border-color: #4CAF50;
+	box-shadow: 3px 3px 5px #888;
+
+
+}
+.buttonSubmit{
+	background-color: #4CAF50;
+	border: 2px solid #4CAF50;
+}
+.buttonReset{
+	background-color: #008CBA;
+	border:2px solid #008CBA;
+	margin-left: 0.5em;
+}
+.buttonSubmit:hover{
+	background-color: white;
+  color: #4CAF50;
+}
+.buttonReset:hover{
+	background-color: white;
+  color: #008CBA;
+}
+.btn{
+	margin-top: 1em;
+}
+.wholeContainer{
+	border: 2px solid #4CAF50;
+	background-color: white;
+	border-radius: 0.5em;
+	margin: 10px 5px;
+	padding: 20px;
+  box-shadow: 10px 10px 15px #888;
+}
+#colorPicker{
+	width: 3em;
+	height: 3em;
+	border-radius:15px;
+}
+#colorPicker:hover{
+	box-shadow: 5px 5px 5px #888;
+}
+#inputHeight, #inputWidth{
+	width: 10em;
+	height: 2em;
+	border: 1px solid #888;
+	border-radius: 5px;
+}
+#inputHeight:hover, #inputWidth:hover{
+	border: 1px solid #4CAF50;
+	box-shadow: 5px 5px 5px #888;
+}
