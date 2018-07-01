@@ -15,7 +15,7 @@
 
 ## Link
 
-This project is available at yawmiej.github.io/pixel-art-maker/ 
+This project is available at https://yawmiej.github.io/pixel-art-maker/ 
 
 ## Contributing
 
